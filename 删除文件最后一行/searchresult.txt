@@ -1,0 +1,651 @@
+Searching 3944 files for "kill type"
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_airPurifier\remain\filesize.txt:
+   59  2015-11-25 09:38:16
+   60  29,488KB        increase 0KB
+   61: kill type_review.py at 2015-11-25 10:08:17
+   62  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_aquariumProducts\all\filesize.txt:
+   85  2015-12-17 03:10:56
+   86  85,724KB        increase 0KB
+   87: kill type_review.py at 2015-12-17 03:40:57
+   88  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_backCushion\all\filesize.txt:
+  125  2015-12-13 12:57:23
+  126  101,508KB        increase 0KB
+  127: kill type_review.py at 2015-12-13 13:27:23
+  128  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_bathroommaster\remain\filesize.txt:
+   25  2015-12-01 13:27:08
+   26  7,472KB        increase 0KB
+   27: kill type_review.py at 2015-12-01 13:57:08
+   28  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_bathroomWare\all\filesize.txt:
+  691  2015-12-24 07:46:43
+  692  252,184KB        increase 0KB
+  693: kill type_review.py at 2015-12-24 08:16:44
+  694  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_bathTowel\all\filesize.txt:
+  227  2015-12-09 20:57:04
+  228  182,524KB        increase 0KB
+  229: kill type_review.py at 2015-12-09 21:27:04
+  230  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_beddingSuite\all\filesize.txt:
+  401  2015-12-20 08:01:47
+  402  312,392KB        increase 0KB
+  403: kill type_review.py at 2015-12-20 08:31:47
+  404  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_blackbox\all\filesize.txt:
+   71  2015-12-10 15:33:03
+   72  41,492KB        increase 0KB
+   73: kill type_review.py at 2015-12-10 16:03:03
+   74  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_blanket\all\filesize.txt:
+  115  2015-12-11 15:20:50
+  116  91,580KB        increase 0KB
+  117: kill type_review.py at 2015-12-11 15:50:50
+  118  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_bottomingShirt\all\filesize.txt:
+    3  2015-12-24 14:53:07
+    4  0KB        increase 0KB
+    5: kill type_review.py at 2015-12-24 15:23:08
+    6  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_calligraphyAndPainting\all\filesize.txt:
+   91  2015-12-15 19:04:39
+   92  87,740KB        increase 0KB
+   93: kill type_review.py at 2015-12-15 19:34:39
+   94  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_cameraClean\remain\filesize.txt:
+   41  2015-11-29 02:42:57
+   42  11,416KB        increase 0KB
+   43: kill type_review.py at 2015-11-29 03:12:57
+   44  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_cardReader\remain\jd_cardReader_1000_20151125\filesize.txt:
+   13  2015-11-25 12:18:34
+   14  120KB        increase 0KB
+   15: kill type_review.py at 2015-11-25 12:48:34
+   16  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_carpet\all\filesize.txt:
+  147  2015-12-17 02:32:59
+  148  115,032KB        increase 0KB
+  149: kill type_review.py at 2015-12-17 03:02:59
+  150  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_catLitter\all\filesize.txt:
+   23  2015-12-16 01:04:40
+   24  11,048KB        increase 0KB
+   25: kill type_review.py at 2015-12-16 01:34:40
+   26  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_ceilingLight\all\filesize.txt:
+  333  2015-12-20 17:01:24
+  334  86,568KB        increase 0KB
+  335: kill type_review.py at 2015-12-20 17:31:24
+  336  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_champignonAndCandle\all\filesize.txt:
+   27  2015-12-17 02:41:49
+   28  18,536KB        increase 0KB
+   29: kill type_review.py at 2015-12-17 03:11:49
+   30  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_charcoal\all\filesize.txt:
+  105  2015-12-06 19:32:43
+  106  74,880KB        increase 0KB
+  107: kill type_review.py at 2015-12-06 20:02:43
+  108  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_chiffonShirt\all\filesize.txt:
+  159  2015-12-22 00:01:55
+  160  134,484KB        increase 0KB
+  161: kill type_review.py at 2015-12-22 00:31:55
+  162  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_cleaningTools\all\filesize.txt:
+  369  2015-12-20 23:03:18
+  370  261,856KB        increase 0KB
+  371: kill type_review.py at 2015-12-20 23:33:19
+  372  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_craftGift\all\filesize.txt:
+  283  2016-01-25 23:51:49
+  284  82,956KB        increase 0KB
+  285: kill type_review.py at 2016-01-26 00:21:50
+  286  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_creativeHome\all\filesize.txt:
+   61  2015-12-17 18:11:52
+   62  47,072KB        increase 0KB
+   63: kill type_review.py at 2015-12-17 18:41:53
+   64  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_crossStitch\all\filesize.txt:
+  131  2015-12-14 02:06:02
+  132  112,772KB        increase 0KB
+  133: kill type_review.py at 2015-12-14 02:36:02
+  134  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_deodorant\all\filesize.txt:
+  145  2015-12-16 12:59:07
+  146  117,192KB        increase 0KB
+  147: kill type_review.py at 2015-12-16 13:29:07
+  148  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_depilator\remain\filesize.txt:
+   47  2015-12-01 19:42:20
+   48  10,048KB        increase 0KB
+   49: kill type_review.py at 2015-12-01 20:12:21
+   50  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_digitalMemoryCard\remain\filesize.txt:
+   39  2015-11-29 12:00:46
+   40  10,024KB        increase 0KB
+   41: kill type_review.py at 2015-11-29 12:30:46
+   42  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_discAndAttachment\all\filesize.txt:
+   67  2015-12-07 09:35:44
+   68  32,032KB        increase 0KB
+   69: kill type_review.py at 2015-12-07 10:05:44
+   70  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_DVDPlayer\remain\filesize.txt:
+   33  2015-11-27 15:41:07
+   34  7,652KB        increase 0KB
+   35: kill type_review.py at 2015-11-27 16:11:07
+   36  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_electricalApplianceSwitch\remain\filesize.txt:
+   47  2015-12-01 08:28:56
+   48  13,244KB        increase 0KB
+   49: kill type_review.py at 2015-12-01 08:58:57
+   50  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_electricianMaterial\remain\filesize.txt:
+   23  2015-12-01 05:30:05
+   24  6,400KB        increase 0KB
+   25: kill type_review.py at 2015-12-01 06:00:05
+   26  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_electricPressureCooker\remain\filesize.txt:
+   33  2015-11-28 03:17:58
+   34  13,248KB        increase 0KB
+   35: kill type_review.py at 2015-11-28 03:47:58
+   36  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_electromagneticOven\remain\filesize.txt:
+   33  2015-11-30 23:30:04
+   34  12,728KB        increase 0KB
+   35: kill type_review.py at 2015-12-01 00:00:04
+   36  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_fabric\all\filesize.txt:
+   61  2015-12-09 09:43:03
+   62  40,460KB        increase 0KB
+   63: kill type_review.py at 2015-12-09 10:13:03
+   64  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_hairClipper\remain\filesize.txt:
+   93  2015-12-01 17:28:41
+   94  23,508KB        increase 0KB
+   95: kill type_review.py at 2015-12-01 17:58:42
+   96  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_hairStraightener\remain\filesize.txt:
+   51  2015-12-03 07:51:31
+   52  15,564KB        increase 0KB
+   53: kill type_review.py at 2015-12-03 08:21:32
+   54  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_handTool\remain\filesize.txt:
+  267  2015-12-04 10:18:15
+  268  58,004KB        increase 0KB
+  269: kill type_review.py at 2015-12-04 10:48:15
+  270  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_heatingDevice\remain\filesize.txt:
+   63  2015-11-28 11:21:12
+   64  31,012KB        increase 0KB
+   65: kill type_review.py at 2015-11-28 11:51:13
+   66  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_homeTheater\remain\filesize.txt:
+   39  2015-11-27 07:11:05
+   40  11,284KB        increase 0KB
+   41: kill type_review.py at 2015-11-27 07:41:05
+   42  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_householdElectricApplianceAccessory\remain\filesize.txt:
+   89  2015-11-29 17:59:33
+   90  43,308KB        increase 0KB
+   91: kill type_review.py at 2015-11-29 18:29:33
+   92  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_jacket\all\filesize.txt:
+  297  2015-12-25 13:37:11
+  298  237,964KB        increase 0KB
+  299: kill type_review.py at 2015-12-25 14:07:11
+  300  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_keepingWarm\all\filesize.txt:
+  337  2015-12-18 00:15:36
+  338  130,992KB        increase 0KB
+  339: kill type_review.py at 2015-12-18 00:45:37
+  340  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_kitchenHardware\remain\filesize.txt:
+  111  2015-12-02 08:18:34
+  112  52,524KB        increase 0KB
+  113: kill type_review.py at 2015-12-02 08:48:35
+  114  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_lamps\remain\filesize.txt:
+   35  2015-12-04 19:18:17
+   36  6,888KB        increase 0KB
+   37: kill type_review.py at 2015-12-04 19:48:17
+   38  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_laptopAccessory\all\filesize.txt:
+  161  2015-12-04 01:21:57
+  162  123,508KB        increase 0KB
+  163: kill type_review.py at 2015-12-04 01:51:58
+  164  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_LEDLight\remain\filesize.txt:
+   53  2015-12-05 08:48:20
+   54  5,092KB        increase 0KB
+   55: kill type_review.py at 2015-12-05 09:18:20
+   56  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_LEDLightInLamp\all\filesize.txt:
+  179  2015-12-14 12:34:16
+  180  50,668KB        increase 0KB
+  181: kill type_review.py at 2015-12-14 13:04:16
+  182  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_mainboard\all\filesize.txt:
+   43  2015-12-02 05:00:32
+   44  21,124KB        increase 0KB
+   45: kill type_review.py at 2015-12-02 05:30:32
+   46  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_massager\remain\filesize.txt:
+  295  2015-12-04 19:28:57
+  296  77,840KB        increase 0KB
+  297: kill type_review.py at 2015-12-04 19:58:57
+  298  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_mattress\all\filesize.txt:
+  107  2015-12-10 23:57:10
+  108  86,796KB        increase 0KB
+  109: kill type_review.py at 2015-12-11 00:27:11
+  110  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_menCottonPaddedJacket\all\filesize.txt:
+  331  2015-12-31 05:10:09
+  332  270,776KB        increase 0KB
+  333: kill type_review.py at 2015-12-31 05:40:10
+  334  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_menGirdle\all\filesize.txt:
+  497  2016-01-11 01:25:09
+  498  367,064KB        increase 0KB
+  499: kill type_review.py at 2016-01-11 01:55:09
+  500  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_menKnitwear\all\filesize.txt:
+  219  2015-12-25 03:42:29
+  220  180,860KB        increase 0KB
+  221: kill type_review.py at 2015-12-25 04:12:30
+  222  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_menUnderpants\all\filesize.txt:
+  385  2016-01-02 04:03:53
+  386  306,724KB        increase 0KB
+  387: kill type_review.py at 2016-01-02 04:33:54
+  388  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_menWoolenOvercoat\all\filesize.txt:
+  141  2015-12-24 07:16:09
+  142  71,696KB        increase 0KB
+  143: kill type_review.py at 2015-12-24 07:46:09
+  144  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_miniSpeaker\remain\filesize.txt:
+   37  2015-11-28 01:11:09
+   38  10,748KB        increase 0KB
+   39: kill type_review.py at 2015-11-28 01:41:09
+   40  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_monitorANdControl\remain\filesize.txt:
+   31  2015-12-01 13:30:07
+   32  10,672KB        increase 0KB
+   33: kill type_review.py at 2015-12-01 14:00:07
+   34  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_monitorANdControlInOffice\all\filesize.txt:
+   49  2015-12-06 08:08:29
+   50  32,844KB        increase 0KB
+   51: kill type_review.py at 2015-12-06 08:38:29
+   52  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_mosquitoNet\all\filesize.txt:
+  117  2015-12-12 05:27:16
+  118  91,720KB        increase 0KB
+  119: kill type_review.py at 2015-12-12 05:57:17
+  120  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_officeStationery\all\filesize.txt:
+  215  2015-12-09 01:32:54
+  216  143,872KB        increase 0KB
+  217: kill type_review.py at 2015-12-09 02:02:54
+  218  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_oralCavityNursing\remain\filesize.txt:
+   49  2015-12-02 21:07:06
+   50  22,064KB        increase 0KB
+   51: kill type_review.py at 2015-12-02 21:37:06
+   52  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_otherHealthelEctricalAppliance\remain\filesize.txt:
+   21  2015-11-30 23:41:28
+   22  5,640KB        increase 0KB
+   23: kill type_review.py at 2015-12-01 00:11:28
+   24  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_pajamas\all\filesize.txt:
+  507  2016-01-04 02:58:13
+  508  257,556KB        increase 0KB
+  509: kill type_review.py at 2016-01-04 03:28:13
+  510  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_paper\all\filesize.txt:
+   79  2015-12-09 21:32:58
+   80  48,388KB        increase 0KB
+   81: kill type_review.py at 2015-12-09 22:02:59
+   82  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_pen\all\filesize.txt:
+  479  2015-12-12 09:36:08
+  480  170,032KB        increase 0KB
+  481: kill type_review.py at 2015-12-12 10:06:08
+  482  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_perfume\all\filesize.txt:
+  507  2016-01-14 07:39:06
+  508  402,952KB        increase 0KB
+  509: kill type_review.py at 2016-01-14 08:09:07
+  510  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_photoFrame\all\filesize.txt:
+   53  2015-12-14 15:36:04
+   54  38,692KB        increase 0KB
+   55: kill type_review.py at 2015-12-14 16:06:05
+   56  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_pillowInner\all\filesize.txt:
+  273  2015-12-10 10:20:43
+  274  226,228KB        increase 0KB
+  275: kill type_review.py at 2015-12-10 10:50:43
+  276  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_plusSizeDress\all\filesize.txt:
+  101  2015-12-22 11:06:56
+  102  109,480KB        increase 0KB
+  103: kill type_review.py at 2015-12-22 11:36:56
+  104  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_quilt\all\filesize.txt:
+  285  2015-12-16 03:31:26
+  286  238,268KB        increase 0KB
+  287: kill type_review.py at 2015-12-16 04:01:26
+  288  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_quinquagenarianDress\all\filesize.txt:
+  321  2015-12-22 19:46:01
+  322  143,752KB        increase 0KB
+  323: kill type_review.py at 2015-12-22 20:16:01
+  324  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_radiator\all\filesize.txt:
+   53  2015-12-05 17:02:38
+   54  34,676KB        increase 0KB
+   55: kill type_review.py at 2015-12-05 17:32:38
+   56  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_repellentsForPets\all\filesize.txt:
+   87  2015-12-18 22:15:42
+   88  12,472KB        increase 0KB
+   89: kill type_review.py at 2015-12-18 22:45:42
+   90  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_ribbon\all\filesize.txt:
+   39  2015-12-11 01:33:05
+   40  19,536KB        increase 0KB
+   41: kill type_review.py at 2015-12-11 02:03:05
+   42  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_riceCooker\remain\filesize.txt:
+   59  2015-11-28 18:18:01
+   60  30,212KB        increase 0KB
+   61: kill type_review.py at 2015-11-28 18:48:01
+   62  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_Shampoo\all\filesize.txt:
+  345  2016-01-12 17:01:40
+  346  266,764KB        increase 0KB
+  347: kill type_review.py at 2016-01-12 17:31:41
+  348  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_shaver\remain\filesize.txt:
+   91  2015-12-02 18:51:29
+   92  34,500KB        increase 0KB
+   93: kill type_review.py at 2015-12-02 19:21:29
+   94  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_shortJacket\all\filesize.txt:
+  141  2015-12-24 16:00:24
+  142  127,104KB        increase 0KB
+  143: kill type_review.py at 2015-12-24 16:30:25
+  144  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_silkStockings\all\filesize.txt:
+  135  2016-01-01 10:16:33
+  136  121,200KB        increase 0KB
+  137: kill type_review.py at 2016-01-01 10:46:33
+  138  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_singleElectricCamera\remain\filesize.txt:
+   61  2015-11-26 06:33:41
+   62  3,796KB        increase 0KB
+   63: kill type_review.py at 2015-11-26 07:03:41
+   64  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_skirt\all\filesize.txt:
+   91  2015-12-21 05:42:10
+   92  87,124KB        increase 0KB
+   93: kill type_review.py at 2015-12-21 06:12:10
+   94  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_smallSuit\all\filesize.txt:
+   91  2015-12-23 04:30:17
+   92  80,224KB        increase 0KB
+   93: kill type_review.py at 2015-12-23 05:00:17
+   94  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_smartHome\remain\filesize.txt:
+  247  2015-11-26 09:08:03
+  248  10,340KB        increase 0KB
+  249: kill type_review.py at 2015-11-26 09:38:03
+  250  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_socket\remain\filesize.txt:
+  105  2015-11-29 05:10:16
+  106  52,092KB        increase 0KB
+  107: kill type_review.py at 2015-11-29 05:40:16
+  108  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_sofaCushion\all\filesize.txt:
+  157  2015-12-14 08:32:45
+  158  117,488KB        increase 0KB
+  159: kill type_review.py at 2015-12-14 09:02:45
+  160  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_speaker\remain\filesize.txt:
+  231  2015-11-29 21:06:33
+  232  132,820KB        increase 0KB
+  233: kill type_review.py at 2015-11-29 21:36:33
+  234  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_storageProducts\all\filesize.txt:
+  795  2015-12-17 02:46:07
+  796  298,160KB        increase 0KB
+  797: kill type_review.py at 2015-12-17 03:16:07
+  798  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_studyStationery\all\filesize.txt:
+  115  2015-12-07 10:01:26
+  116  85,520KB        increase 0KB
+  117: kill type_review.py at 2015-12-07 10:31:27
+  118  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_sunglasses\all\filesize.txt:
+  245  2016-01-14 10:23:23
+  246  202,376KB        increase 0KB
+  247: kill type_review.py at 2016-01-14 10:53:23
+  248  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_suntopAndVest\all\filesize.txt:
+  115  2015-12-24 00:01:41
+  116  34,680KB        increase 0KB
+  117: kill type_review.py at 2015-12-24 00:31:41
+  118  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_tablecloth\all\filesize.txt:
+  115  2015-12-15 13:32:51
+  116  94,904KB        increase 0KB
+  117: kill type_review.py at 2015-12-15 14:02:51
+  118  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_thermalUnderwear\all\filesize.txt:
+  945  2016-01-22 20:03:38
+  946  277,896KB        increase 0KB
+  947: kill type_review.py at 2016-01-22 20:33:38
+  948  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_umbrellaAndRainGear\all\filesize.txt:
+    3  2015-12-24 13:46:09
+    4  0KB        increase 0KB
+    5: kill type_review.py at 2015-12-24 14:16:09
+    6  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_vacuumCleaner\remain\filesize.txt:
+   55  2015-11-27 12:30:55
+   56  31,080KB        increase 0KB
+   57: kill type_review.py at 2015-11-27 13:00:55
+   58  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_wallStickers\all\filesize.txt:
+  197  2015-12-17 05:31:07
+  198  79,816KB        increase 0KB
+  199: kill type_review.py at 2015-12-17 06:01:07
+  200  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_washBaskIroning\all\filesize.txt:
+  113  2015-12-15 00:28:59
+  114  87,780KB        increase 0KB
+  115: kill type_review.py at 2015-12-15 00:58:59
+  116  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_washingMachine\remain\filesize.txt:
+  119  2015-11-26 21:11:03
+  120  43,828KB        increase 0KB
+  121: kill type_review.py at 2015-11-26 21:41:03
+  122  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_waterHeater\remain\filesize.txt:
+   71  2015-11-28 09:27:57
+   72  37,460KB        increase 0KB
+   73: kill type_review.py at 2015-11-28 09:57:57
+   74  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_weddingVeil\all\filesize.txt:
+   51  2015-12-19 11:15:44
+   52  15,764KB        increase 0KB
+   53: kill type_review.py at 2015-12-19 11:45:45
+   54  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenCashmereSweater\all\filesize.txt:
+   15  2015-12-24 17:24:05
+   16  14,492KB        increase 0KB
+   17: kill type_review.py at 2015-12-24 17:54:05
+   18  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenCasualPants\all\filesize.txt:
+  155  2015-12-22 20:42:18
+  156  139,248KB        increase 0KB
+  157: kill type_review.py at 2015-12-22 21:12:18
+  158  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenDownCoat\all\filesize.txt:
+  159  2015-12-21 09:36:50
+  160  166,312KB        increase 0KB
+  161: kill type_review.py at 2015-12-21 10:06:50
+  162  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenDressPants\all\filesize.txt:
+   19  2015-12-21 04:03:20
+   20  10,072KB        increase 0KB
+   21: kill type_review.py at 2015-12-21 04:33:20
+   22  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenJeans\all\filesize.txt:
+  207  2015-12-20 06:42:05
+  208  177,860KB        increase 0KB
+  209: kill type_review.py at 2015-12-20 07:12:05
+  210  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenShirt\all\filesize.txt:
+  131  2015-12-24 20:32:10
+  132  118,528KB        increase 0KB
+  133: kill type_review.py at 2015-12-24 21:02:10
+  134  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenShorts\all\filesize.txt:
+  199  2015-12-22 19:01:35
+  200  72,620KB        increase 0KB
+  201: kill type_review.py at 2015-12-22 19:31:35
+  202  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenSweater\all\filesize.txt:
+  141  2015-12-23 11:32:02
+  142  128,592KB        increase 0KB
+  143: kill type_review.py at 2015-12-23 12:02:03
+  144  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenVest\all\filesize.txt:
+   33  2015-12-18 02:41:54
+   34  28,936KB        increase 0KB
+   35: kill type_review.py at 2015-12-18 03:11:55
+   36  
+
+C:\Users\dxy\Desktop\spiderResult\rawData\jd_womenWoolenOvercoat\all\filesize.txt:
+  201  2015-12-19 16:32:49
+  202  174,920KB        increase 0KB
+  203: kill type_review.py at 2015-12-19 17:02:49
+  204  
+
+108 matches across 108 files
